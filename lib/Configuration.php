@@ -80,7 +80,7 @@ class Configuration
      *
      * @var string
      */
-    protected $host = '///shipping/v3';
+    protected $host = 'https://api.royalmail.net/shipping/v3';
 
     /**
      * User agent of the HTTP request, set to "PHP-Swagger" by default
