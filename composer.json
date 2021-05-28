@@ -1,5 +1,5 @@
 {
-    "name": "zvps/royal-mail-shipping-rest-api-client",
+    "name": "zvps/royal-mail-shipping-rest-api-cliens",
     "description": "Royal Mail Shipping REST API Client",
     "keywords": [
         "swagger",
@@ -7,7 +7,7 @@
         "sdk",
         "api"
     ],
-    "homepage": "https://github.com/zVPS/royal-mail-shipping-rest-api-client",
+    "homepage": "https://github.com/pabzoid/royal-mail-shipping-rest-api-client.git",
     "license": "proprietary",
     "authors": [
         {
